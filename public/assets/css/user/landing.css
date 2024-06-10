@@ -1,0 +1,111 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+.header span {
+    color:#4475F2;
+}
+.left-header
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.beranda-text h1{
+    font-weight: 700;
+}
+.btn-beranda{
+    box-shadow: 4px 8px 12px 0px rgba(78, 99, 141, 0.05999999865889549);
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 10px;
+    justify-content: space-between;
+    background-color: rgba(68, 117, 242, 1);
+    width: 200px;
+    padding: 15px 0px;
+    border: none;
+    margin-top: 30px;
+    cursor: pointer;
+    color: white;
+    font-weight: 600;
+}
+.list-aktifitas{
+    margin-top: 70px;
+}
+.aktifitas{
+    width: 200px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+.box-icon{
+    width: 70px;
+    height: 70px;
+    background-color: #4475F2;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    cursor: pointer;
+}
+.informasi{
+    padding: 100px 0px;
+}
+.informasi .d-flex{
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.rating {
+    padding:10px 20px;
+}
+.card {
+    margin:10px;
+}
+
+.bott {
+    justify-content: space-between  ;
+    margin-top: 100px;
+    /* margin-left: 50px; */
+    margin-right: 50px;
+    align-items: center ;
+    flex-direction:column;
+    padding: 20pxpx 50px;
+}
+
+.bott p{
+    font-weight: 700;
+    font-size: larger;
+}
+.col-bott{
+    display: flex;
+    align-items: center;
+    gap:10px;
+    font-size: larger;
+
+    
+    
+
+}
+.icons {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    cursor: pointer;
+}   
+
+.footer-br {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    background-color: #4475F2;
+    height: 100px;
+    padding: 20px 30px;
+
+}

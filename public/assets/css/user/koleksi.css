@@ -1,0 +1,28 @@
+/* .main-page{
+    display: flex;
+} */
+
+.koleksi-text{
+    display: flex;
+    justify-content: center;     
+}
+
+/* .koleksi{
+    display: flex;
+    justify-content:center ;
+    margin-top: 50px;
+    padding: 10px  ;
+}
+
+.button-koleksi button{
+    display: flex;
+    padding: 0px 10px;
+    gap: 10px;
+}
+
+.btn-kl{
+    border-radius: 20px;
+    border-color: rgba(68, 117, 242, 1);
+    background-color: #265ce8;
+} */
+
